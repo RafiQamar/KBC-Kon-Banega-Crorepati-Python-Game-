@@ -90,7 +90,7 @@ Contributions, suggestions, and bug reports are welcome! Feel free to fork this 
 
 ## License 📜
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. 
 
 ---
 
